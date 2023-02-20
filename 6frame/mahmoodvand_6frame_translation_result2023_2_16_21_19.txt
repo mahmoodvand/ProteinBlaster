@@ -1,0 +1,93 @@
+the result of 6 Frame extraction from contig by Mohamadreza Mahmoodvand - 2023-02-16 21:19:40.272894
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+
+****Protein Matched: 1****
+title:gb|MBQ3733823.1| DUF1186 domain-containing protein [Bacteroidales bacterium]
+bit score:141.739
+total score:356.0
+E value:8.25252e-38
+
+
+****Protein Matched: 2****
+title:gb|MBR4537144.1| DUF1186 domain-containing protein [Bacteroidales bacterium]
+bit score:141.354
+total score:355.0
+E value:1.01638e-37
+
+
+****Protein Matched: 3****
+title:gb|MBR5982564.1| DUF1186 domain-containing protein [Bacteroidales bacterium]
+bit score:110.538
+total score:275.0
+E value:2.57989e-26
+
+
+****Protein Matched: 4****
+title:gb|MBR6179756.1| hypothetical protein [Prevotella sp.]
+bit score:110.538
+total score:275.0
+E value:2.94496e-26
+
+
+****Protein Matched: 5****
+title:gb|MCQ2270152.1| DUF1186 domain-containing protein [Bacteroidales bacterium]
+bit score:109.383
+total score:272.0
+E value:6.65981e-26
+
+
+****Protein Matched: 6****
+title:gb|MBR5688698.1| DUF1186 domain-containing protein [Prevotella sp.]
+bit score:107.071
+total score:266.0
+E value:5.47599e-25
+
+-------------------------end of protein examination-------------------------------
+
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+
+
+------------------START------------------
+1- Contig Name :>k141_4482744 flag=0 multi=6.0769 len=206
+candidate 6 frame proteins are ...
+1 : T  G  R  A  T  I  P  I  P  G  T  I  S  E  T  E  G  K  N  FG  N  R  Q  V  L  H  F  R  R  H  R  R  V  R  *  G  S  C  FR  H  Q  T  P  Y  R  R  E  S  Q  H  R  I  L  S  R  G  H  LL  F  G  S  N  R  L  W
+2 : N  R  A  G  N  N  S  Y  P  R  N  N  I  *  N  R  R  Q  E  LW  K  S  A  S  A  T  F  P  K  T  S  K  S  A  V  R  E  L  FS  S  P  D  S  I  P  A  G  K  S  A  *  D  S  I  S  W  T  ST  V  W  E  *  *  T  L
+3 : K  Q  G  G  Q  Q  F  L  S  P  E  Q  Y  L  K  Q  K  A  R  TL  E  I  G  K  C  Y  I  S  E  D  I  E  E  C  G  E  G  A  VF  V  T  R  L  H  T  G  G  K  V  S  I  G  F  Y  L  V  D  IY  C  L  G  V  I  D  S
+4 : V  P  R  A  V  I  G  I  G  P  V  I  D  S  V  S  P  L  F  KP  F  R  C  T  S  C  K  R  L  C  R  L  T  R  H  P  L  Q  KR  *  W  V  G  Y  R  R  S  L  *  C  L  I  R  D  R  P  C  RS  N  P  L  L  L  S  Q
+5 : C  P  P  C  C  N  R  D  G  S  C  Y  R  F  C  F  A  L  V  KS  I  P  L  H  *  M  E  S  S  M  S  S  H  P  S  P  A  T  KT  V  L  S  W  V  P  P  F  T  L  M  P  N  *  R  T  S  M  *Q  K  P  T  I  S  E  P
+6 : F  L  A  P  L  L  E  *  G  R  F  L  I  Q  F  L  L  C  S  SQ  F  D  A  L  A  V  N  G  F  V  D  F  L  A  T  L  S  S  NE  D  G  S  E  M  G  A  P  F  D  A  Y  S  E  I  E  H  V  DV  T  Q  S  Y  Y  V  R
+-----------------END-------------------
+Number of Translated contig: 1
+Start time :2023-02-16 21:19:40.272894
+End time :2023-02-16 22:11:36.118211
+Duration :0:51:55.845317
+End of file

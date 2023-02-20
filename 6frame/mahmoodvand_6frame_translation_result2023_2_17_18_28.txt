@@ -1,0 +1,327 @@
+the result of 6 Frame extraction from contig by Mohamadreza Mahmoodvand - 2023-02-17 18:28:03.033534
+<<<-----------------START of Blast of Protein seq------------------>>>
+1- Contig Name :>k141_4482744 flag=0 multi=6.0769 len=206
+candidate 6 frame proteins are ...
+1 : T  G  R  A  T  I  P  I  P  G  T  I  S  E  T  E  G  K  N  FG  N  R  Q  V  L  H  F  R  R  H  R  R  V  R  *  G  S  C  FR  H  Q  T  P  Y  R  R  E  S  Q  H  R  I  L  S  R  G  H  LL  F  G  S  N  R  L  W
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+
+2 : N  R  A  G  N  N  S  Y  P  R  N  N  I  *  N  R  R  Q  E  LW  K  S  A  S  A  T  F  P  K  T  S  K  S  A  V  R  E  L  FS  S  P  D  S  I  P  A  G  K  S  A  *  D  S  I  S  W  T  ST  V  W  E  *  *  T  L
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+
+3 : K  Q  G  G  Q  Q  F  L  S  P  E  Q  Y  L  K  Q  K  A  R  TL  E  I  G  K  C  Y  I  S  E  D  I  E  E  C  G  E  G  A  VF  V  T  R  L  H  T  G  G  K  V  S  I  G  F  Y  L  V  D  IY  C  L  G  V  I  D  S
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+
+****Protein Matched: 1****
+title:gb|MBQ3733823.1| DUF1186 domain-containing protein [Bacteroidales bacterium]
+bit score:141.739
+total score:356.0
+E value:8.25252e-38
+
+
+****Protein Matched: 2****
+title:gb|MBR4537144.1| DUF1186 domain-containing protein [Bacteroidales bacterium]
+bit score:141.354
+total score:355.0
+E value:1.01638e-37
+
+
+****Protein Matched: 3****
+title:gb|MBR5982564.1| DUF1186 domain-containing protein [Bacteroidales bacterium]
+bit score:110.538
+total score:275.0
+E value:2.57989e-26
+
+
+****Protein Matched: 4****
+title:gb|MBR6179756.1| hypothetical protein [Prevotella sp.]
+bit score:110.538
+total score:275.0
+E value:2.94496e-26
+
+
+****Protein Matched: 5****
+title:gb|MCQ2270152.1| DUF1186 domain-containing protein [Bacteroidales bacterium]
+bit score:109.383
+total score:272.0
+E value:6.65981e-26
+
+
+****Protein Matched: 6****
+title:gb|MBR5688698.1| DUF1186 domain-containing protein [Prevotella sp.]
+bit score:107.071
+total score:266.0
+E value:5.47599e-25
+
+-------------------------end of protein examination-------------------------------
+
+4 : V  P  R  A  V  I  G  I  G  P  V  I  D  S  V  S  P  L  F  KP  F  R  C  T  S  C  K  R  L  C  R  L  T  R  H  P  L  Q  KR  *  W  V  G  Y  R  R  S  L  *  C  L  I  R  D  R  P  C  RS  N  P  L  L  L  S  Q
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+
+5 : C  P  P  C  C  N  R  D  G  S  C  Y  R  F  C  F  A  L  V  KS  I  P  L  H  *  M  E  S  S  M  S  S  H  P  S  P  A  T  KT  V  L  S  W  V  P  P  F  T  L  M  P  N  *  R  T  S  M  *Q  K  P  T  I  S  E  P
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+
+6 : F  L  A  P  L  L  E  *  G  R  F  L  I  Q  F  L  L  C  S  SQ  F  D  A  L  A  V  N  G  F  V  D  F  L  A  T  L  S  S  NE  D  G  S  E  M  G  A  P  F  D  A  Y  S  E  I  E  H  V  DV  T  Q  S  Y  Y  V  R
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+2- Contig Name :>k141_1600980 flag=1 multi=3.0000 len=315
+candidate 6 frame proteins are ...
+1 : T  L  G  K  F  V  G  K  H  A  M  A  A  V  G  N  N  I  S  MV  G  L  I  V  S  L  L  M  G  L  S  L  G  A  N  V  V  I  AQ  N  I  G  A  K  R  I  D  R  A  H  A  A  V  S  T  S  F  VL  A  T  A  A  G  I  F  F  C  A  V  G  E  F  L  V  T  P  IF  Y  F  L  E  V  P  P  S  V  V  D  M  A  E  T  Y  M  R  IF  L  L  G
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+
+****Protein Matched: 1****
+title:gb|MBR1805652.1| MATE family efflux transporter [Selenomonadaceae bacterium]
+bit score:180.259
+total score:456.0
+E value:7.36053e-56
+
+
+****Protein Matched: 2****
+title:gb|MBR0289153.1| MATE family efflux transporter [Selenomonadaceae bacterium]
+bit score:187.963
+total score:476.0
+E value:2.1785e-55
+
+
+****Protein Matched: 3****
+title:gb|MBQ7453848.1| MATE family efflux transporter [Selenomonadaceae bacterium]
+bit score:184.882
+total score:468.0
+E value:4.9497e-55
+
+
+****Protein Matched: 4****
+title:gb|MBQ6006277.1| MATE family efflux transporter [Selenomonadaceae bacterium]
+bit score:185.652
+total score:470.0
+E value:2.08985e-54
+
+
+****Protein Matched: 5****
+title:gb|MBQ7723579.1| MATE family efflux transporter [Selenomonadaceae bacterium]
+bit score:185.652
+total score:470.0
+E value:2.1351e-54
+
+
+****Protein Matched: 6****
+title:gb|MBQ6297186.1| MATE family efflux transporter [Selenomonadaceae bacterium]
+bit score:185.652
+total score:470.0
+E value:2.27681e-54
+
+-------------------------end of protein examination-------------------------------
+
+2 : D  A  W  Q  I  R  R  Q  A  R  N  G  G  S  R  Q  Q  Y  F  NG  R  A  Y  R  Q  P  A  Y  G  L  E  P  R  R  E  R  R  H  CA  K  Y  R  R  K  A  N  R  Q  S  A  R  G  S  K  H  V  I  CP  G  N  G  G  G  N  F  F  L  R  G  R  R  I  F  G  H  A  DF  L  F  P  *  G  A  A  K  R  R  R  H  G  G  N  L  H  A  NI  F  A  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : *  R  L  A  N  S  S  A  S  T  Q  W  R  Q  S  A  T  I  F  QW  S  G  L  S  S  A  C  L  W  A  *  A  S  A  R  T  S  S  LR  K  I  S  A  Q  S  E  S  T  E  R  T  R  Q  *  A  R  H  LS  W  Q  R  R  R  E  F  F  S  A  R  S  E  N  F  W  S  R  RF  F  I  S  L  R  C  R  Q  A  S  S  T  W  R  K  L  T  C  EY  F  C  S  D
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : R  K  A  F  E  D  A  L  V  C  H  R  C  D  A  V  I  N  *  HD  P  K  D  D  A  Q  K  H  A  Q  A  E  A  R  V  D  D  N  RL  I  D  A  C  L  S  D  V  S  R  V  R  C  Y  A  R  *  K  DQ  C  R  R  R  S  N  K  E  A  R  D  S  F  K  Q  D  R  R  NK  I  E  K  L  H  R  W  A  D  D  V  H  R  F  S  V  H  S  YK  Q  E  S
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : S  A  Q  C  I  R  R  C  A  R  L  P  P  L  R  C  C  Y  K  LP  R  A  *  R  *  G  A  *  P  S  S  G  R  R  S  R  R  *  QA  F  Y  R  R  L  A  F  R  C  L  A  R  P  L  L  C  T  M  QG  P  L  P  P  P  F  K  K  R  R  P  R  L  I  K  P  *  A  SK  K  N  G  Q  P  A  A  L  R  R  R  C  P  P  F  K  C  A  FI  K  A  R  I
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : V  S  P  L  N  T  P  L  C  A  I  A  A  T  P  L  L  I  E  IT  P  S  I  T  L  R  S  I  P  K  L  R  P  A  F  T  T  M  AC  F  I  P  A  F  R  I  S  L  A  C  A  A  T  L  V  D  N  TR  A  V  A  A  P  I  K  K  Q  A  T  P  S  N  K  T  V  G  IK  *  K  R  S  T  G  G  L  T  T  S  M  A  S  V  *  M  R  IN  K  S  P
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+3- Contig Name :>k141_7684702 flag=0 multi=1.0000 len=329
+candidate 6 frame proteins are ...
+1 : A  A  A  Q  S  F  L  V  Y  S  H  I  Q  F  R  *  Y  A  V  IS  F  C  L  Q  N  *  L  K  R  V  K  K  A  N  *  L  R  F  LN  M  K  K  Y  L  I  G  Q  K  S  A  P  L  P  P  I  C  L  NN  G  A  L  S  Q  Q  L  R  K  K  *  S  K  K  H  *  R  Q  QE  N  A  *  L  C  I  R  K  K  T  K  T  A  K  Y  E  T  D  NN  L  D  *  T  K  L  N  E
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+2 : S  G  G  A  E  L  L  G  L  *  S  Y  T  V  P  L  I  C  G  YF  V  L  F  A  K  L  I  E  T  S  E  K  S  K  L  I  T  L  FE  H  E  K  V  S  D  W  T  K  I  G  T  L  T  P  D  L  S  QQ  R  R  F  V  S  T  T  *  E  E  I  I  K  K  T  L  T  A  TG  K  R  V  T  L  H  Q  K  K  N  K  D  R  Q  I  R  D  R  Q*  F  R  L  N  K  I  E  *
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : K  R  R  R  R  A  S  W  S  I  V  I  Y  S  S  A  D  M  R  LF  R  F  V  C  K  I  N  *  N  E  *  K  K  Q  I  N  Y  A  F*  T  *  K  S  I  *  L  D  K  N  R  H  P  Y  P  R  F  V  ST  T  A  L  C  L  N  N  L  G  R  N  N  Q  K  N  I  D  G  NR  K  T  R  N  F  A  S  E  K  K  Q  R  P  P  N  T  R  Q  TI  I  *  I  K  Q  N  *  M
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : A  A  A  C  L  K  K  T  *  L  *  I  C  N  R  Q  Y  A  T  IE  N  Q  K  C  F  *  N  F  R  T  F  F  A  F  *  N  R  K  KF  M  F  F  Y  R  I  P  C  F  D  A  G  K  G  G  I  Q  R  LL  P  A  K  D  *  C  S  L  F  F  Y  D  F  F  C  Q  R  C  CS  F  A  Y  S  Q  M  L  F  F  V  F  V  A  L  Y  S  V  S  LL  K  S  *  V  F  N  F  S
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : R  R  R  L  A  E  Q  D  I  T  M  Y  L  E  A  S  I  R  N  NR  K  T  Q  L  I  L  Q  F  S  H  F  F  C  I  L  *  A  K  QV  H  F  L  I  Q  N  S  L  F  R  C  G  *  G  R  N  T  E  VV  A  S  Q  R  L  L  K  P  L  F  L  *  F  F  M  S  P  L  LF  V  R  L  K  A  D  S  F  F  C  L  G  G  F  V  L  C  V  II  *  I  L  C  F  Q  I  L
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : L  P  P  A  S  S  R  P  R  Y  D  Y  V  T  G  S  I  H  P  *K  T  K  N  A  F  N  I  S  V  L  S  F  L  L  N  I  V  S  KS  C  S  F  T  D  S  Q  V  F  I  P  V  R  V  G  S  K  D  *C  R  R  K  T  E  V  V  *  S  S  I  I  L  F  V  N  V  A  VP  F  R  T  V  K  C  *  F  F  F  L  S  R  W  I  R  S  L  CY  N  L  N  F  L  I  S  H
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+4- Contig Name :>k141_640392 flag=1 multi=2.0000 len=356
+candidate 6 frame proteins are ...
+1 : Q  R  F  R  G  V  L  D  G  F  D  T  S  L  Q  H  F  I  L  GS  N  L  T  E  R  I  F  Q  E  T  V  L  L  R  I  V  R  L  HM  F  L  H  S  I  E  V  R  L  F  A  S  V  F  S  Q  F  V  FD  V  C  G  H  A  L  Q  F  I  G  P  K  V  H  L  I  A  S  QS  A  S  W  S  F  Y  D  A  A  T  G  P  H  K  P  F  L  F  TG  K  D  A  P  P  Y  Q  F  R  R  I  A  F  R  V  G  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+2 : S  A  F  P  R  C  S  *  W  L  R  Y  V  A  S  A  L  H  T  WQ  Q  S  D  *  A  H  I  S  G  N  G  S  P  A  Y  R  S  T  AH  V  P  P  L  D  R  G  A  P  V  R  V  C  V  Q  P  V  R  FR  C  L  W  A  R  A  S  V  Y  R  P  *  G  T  P  H  S  L  AI  C  V  V  V  F  L  *  C  C  D  R  P  S  Q  T  V  P  V  HR  Q  R  C  S  T  I  S  V  P  A  Y  R  L  S  C  R  A
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : L  S  V  S  E  V  F  L  M  A  S  I  R  R  F  S  T  S  Y  LA  A  I  *  L  S  A  Y  F  R  K  R  F  S  C  V  S  F  D  CT  C  S  S  T  R  *  R  C  A  C  S  R  L  C  S  A  S  S  FS  M  S  V  G  T  R  F  S  L  S  A  L  R  Y  T  S  *  P  RN  L  R  R  G  L  S  M  M  L  R  Q  A  L  T  N  R  S  C  SP  A  K  M  L  H  H  I  S  S  G  V  S  P  F  V  S  G
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : *  R  K  R  P  T  R  S  P  K  S  V  D  S  *  C  K  M  S  PL  L  R  V  S  R  M  N  *  S  V  T  R  R  R  I  T  R  S  CM  N  R  W  E  I  S  T  R  R  N  A  D  T  N  L  W  N  T  KS  T  Q  P  C  A  S  *  N  I  P  G  L  T  C  R  M  A  E  CD  A  D  H  D  K  *  S  A  A  V  P  G  *  L  G  N  R  N  VP  L  S  A  G  G  Y  *  N  R  R  I  A  K  R  T  P  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : L  T  E  S  T  N  K  I  A  E  I  R  R  K  L  V  E  Y  K  AA  I  Q  S  L  A  Y  K  L  F  R  N  E  Q  T  D  N  S  Q  VH  E  E  V  R  Y  L  H  A  Q  E  R  R  H  E  A  L  E  N  EI  D  T  P  V  R  K  L  K  D  A  R  L  Y  V  E  Y  G  R  LR  R  R  P  R  E  I  I  S  R  C  A  R  V  F  R  E  Q  E  GA  F  I  S  W  W  I  L  E  P  T  D  G  K  T  D  P  S
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : E  A  N  G  L  H  E  Q  H  S  R  Y  T  A  E  A  S  *  V  QC  C  D  S  Q  A  C  I  E  P  F  P  E  G  A  Y  R  E  V  AC  T  G  G  S  S  L  P  A  G  T  R  T  Q  T  *  G  T  R  KR  H  R  H  A  R  A  E  T  *  R  G  *  P  V  G  *  L  R  AI  Q  T  T  T  K  R  H  H  Q  S  L  G  E  C  V  T  G  T  *R  C  L  H  E  V  M  D  T  G  A  Y  R  R  E  H  R  A
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+5- Contig Name :>k141_2241372 flag=0 multi=1.0000 len=363
+candidate 6 frame proteins are ...
+1 : E  G  A  Q  H  Q  L  H  P  A  Q  L  Q  G  H  R  G  Q  L  PE  D  Q  R  L  A  R  E  G  E  L  H  G  D  L  F  R  G  R  AD  P  V  Q  L  R  R  H  H  G  Q  L  L  A  L  R  G  L  *  RG  G  G  R  G  P  S  L  G  G  H  P  P  A  R  P  Q  H  A  HR  L  L  R  R  L  E  P  E  A  A  D  P  G  G  S  G  R  R  AR  E  D  H  L  L  P  R  Q  P  P  V  H  P  V  Q  P  D  G  Q
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+2 : R  R  C  A  T  S  T  P  P  C  S  T  T  R  T  S  W  T  T  T*  R  S  T  T  G  A  *  R  R  T  P  R  *  P  I  P  W  A  G*  S  C  P  T  P  A  P  S  R  P  I  T  G  S  P  R  S  M  TR  R  W  P  R  P  I  A  R  R  P  S  T  C  T  T  S  A  C  SP  A  T  A  P  A  G  A  *  S  S  *  S  R  R  V  W  A  A  CP  G  R  S  P  P  P  P  P  A  T  C  P  P  C  A  T  R  W  S
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : E  K  V  R  N  I  N  S  T  L  L  N  Y  K  D  I  V  D  N  YL  K  I  N  D  W  R  V  K  E  N  S  T  V  T  Y  S  V  G  GL  I  L  S  N  S  G  A  I  T  A  N  Y  W  L  S  E  V  Y  DE  E  V  A  E  A  H  R  S  A  A  I  H  L  H  D  L  S  M  LT  G  Y  C  A  G  W  S  L  K  Q  L  I  Q  E  G  L  G  G  VP  G  K  I  T  S  S  P  A  S  H  L  S  T  L  C  N  Q  M  VN
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : F  T  R  L  M  L  E  V  R  S  L  *  L  S  M  T  S  L  *  RF  I  L  S  Q  R  T  F  S  F  E  V  T  V  *  E  T  P  P  SI  R  D  L  E  P  A  M  V  A  L  *  Q  S  E  S  T  *  S  SS  T  A  S  A  W  R  E  A  A  M  W  R  C  S  R  L  M  S  VP  *  Q  A  P  Q  L  R  F  C  S  I  W  S  P  R  P  P  T  GP  F  I  V  E  E  G  A  L  W  R  D  V  R  H  L  W  I  T  L
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : L  L  H  A  V  D  V  G  G  Q  E  V  V  L  V  D  H  V  V  VQ  L  D  V  V  P  A  H  L  L  V  G  R  H  G  I  G  H  A  PQ  D  Q  G  V  G  A  G  D  R  G  I  V  P  E  G  L  D  I  VL  L  H  G  L  G  M  A  R  R  G  D  V  Q  V  V  E  A  H  EG  A  V  A  G  A  P  A  Q  L  L  Q  D  L  L  T  Q  A  A  HG  P  L  D  G  G  G  G  G  A  V  Q  G  G  Q  A  V  L  H  DV
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : S  P  A  C  C  *  S  W  G  A  *  S  C  P  C  R  P  C  S  GS  S  *  R  S  A  R  S  P  S  S  W  P  S  R  N  R  P  R  AS  G  T  W  S  R  R  W  *  P  W  N  S  A  R  R  P  R  H  RP  P  P  R  P  G  D  S  P  P  W  G  G  A  R  G  *  C  A  *R  S  S  R  R  S  S  G  S  A  A  S  G  P  P  D  P  R  R  AR  S  S  *  R  R  G  R  W  G  G  T  W  G  T  C  G  S  P  *
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+6- Contig Name :>k141_8645287 flag=1 multi=1.0000 len=393
+candidate 6 frame proteins are ...
+1 : L  A  H  M  G  Q  R  V  T  T  S  V  H  V  D  P  S  G  T  SG  P  H  Q  G  T  P  G  T  F  *  N  L  L  G  T  I  L  K  KS  R  T  F  P  E  P  *  K  *  L  P  I  Y  E  S  Y  S  P  DH  S  G  L  P  R  D  V  L  D  P  I  R  D  S  E  Q  Y  S  IS  I  S  Y  S  I  S  T  *  T  T  P  N  L  K  C  V  T  L  RF  V  N  D  A  D  M  I  K  T  P  L  R  S  I  T  N  S  G  TW  R  S  I  M  A  P  T  Y  S
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+2 : P  G  P  H  G  P  A  R  H  H  L  S  P  C  G  P  L  W  D  KW  A  P  P  G  D  P  R  N  L  L  E  P  S  R  Y  N  T  E  KI  P  N  F  S  G  T  L  K  I  T  S  Y  I  *  I  L  F  S  GP  F  R  T  S  S  *  C  P  G  S  N  P  R  L  R  T  I  F  DL  H  L  I  F  H  I  Y  L  N  Y  T  E  P  *  V  C  H  P  AV  R  E  *  C  R  H  D  Q  D  T  S  P  I  N  N  Q  *  R  DL  E  I  H  N  G  S  Y  I  F
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : A  W  P  T  W  A  S  A  S  P  P  Q  S  M  W  T  P  L  G  QV  G  P  T  R  G  P  P  E  P  S  R  T  F  S  V  Q  Y  *  KN  P  E  L  F  R  N  P  K  N  N  F  L  Y  M  N  L  I  L  RT  I  P  D  F  L  V  M  S  W  I  Q  S  E  T  P  N  N  I  RS  P  S  H  I  P  Y  L  L  K  L  H  R  T  L  S  V  S  P  CG  S  *  M  M  Q  T  *  S  R  H  L  S  D  Q  *  P  I  A  GP  G  D  P  *  W  L  L  H  I  Q
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : Q  G  V  H  A  L  A  D  G  G  *  D  M  H  V  G  R  P  C  TP  G  V  L  P  G  G  S  G  E  L  V  K  E  T  C  Y  Q  F  FG  S  S  K  R  F  G  L  F  L  K  R  Y  I  F  R  I  R  R  VM  G  S  K  R  T  I  D  Q  I  W  D  S  V  G  F  L  I  R  DG  D  *  I  G  Y  R  S  L  S  C  R  V  K  L  T  D  G  Q  PE  H  I  I  C  V  H  D  L  C  R  E  S  *  Y  G  I  A  P  GP  S  G  Y  H  S  R  C  I  *
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : G  P  G  C  P  G  A  R  *  W  R  L  G  H  P  G  R  Q  S  LH  A  G  G  P  S  G  R  F  R  R  S  G  E  R  Y  L  V  S  FI  G  F  K  E  P  V  R  F  I  V  E  *  I  H  I  K  N  E  PG  N  R  V  E  E  H  H  G  P  D  L  G  L  S  R  V  I  N  SR  W  R  M  N  W  I  *  K  F  *  V  S  G  *  T  H  *  G  AT  R  S  H  H  L  C  S  *  S  V  E  G  I  L  L  W  Y  R  SR  S  I  W  L  P  E  *  M  N  L
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : R  A  W  M  P  W  R  T  V  V  E  T  W  T  S  G  E  P  V  LP  G  W  W  P  V  G  P  V  K  *  F  R  R  P  V  I  S  F  FD  R  V  K  G  S  G  *  F  Y  S  G  I  Y  S  D  *  E  G  SW  E  P  S  G  R  S  T  R  S  G  I  R  S  E  S  C  Y  E  IE  M  E  Y  E  M  D  V  *  V  V  G  F  R  L  H  T  V  R  RN  T  F  S  A  S  M  I  L  V  G  R  R  D  I  V  L  L  P  VQ  L  D  M  I  A  G  V  Y  E
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+7- Contig Name :>k141_6403920 flag=1 multi=2.0000 len=324
+candidate 6 frame proteins are ...
+1 : E  W  L  V  S  L  D  P  V  C  P  E  Y  L  C  A  Y  A  D  AC  L  N  T  G  L  P  R  D  A  W  D  A  L  N  W  A  L  I  CV  S  T  H  E  E  A  A  Y  C  Y  Y  L  L  A  R  C  C  L  AE  D  N  R  D  D  A  A  I  L  L  Q  K  S  L  R  V  H  P  SP  E  A  E  K  A  L  A  Q  L  T  L  Q  T  G  V  Q  A  E  ST  D  E  A  V  N  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+2 : G  V  A  G  I  T  G  S  C  L  P  G  I  P  L  R  L  C  R  CL  S  E  H  R  P  A  P  G  C  L  G  R  P  E  L  G  I  D  LR  L  Y  S  *  G  G  S  L  L  L  L  P  S  C  P  V  L  S  RG  G  Q  P  G  *  R  R  D  P  A  P  E  E  S  P  S  P  S  LA  G  G  R  E  G  P  R  P  A  H  P  A  D  R  G  P  G  G  IH  R  *  G  C  *  P
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : W  S  G  W  Y  H  W  I  L  S  A  R  N  T  S  A  P  M  Q  MP  V  *  T  P  A  C  P  G  M  P  G  T  P  *  T  G  H  *  SA  S  L  L  M  R  R  Q  L  T  A  I  T  F  L  P  G  A  V  SR  R  T  T  G  M  T  P  R  S  C  S  R  R  V  S  E  S  I  PR  R  R  Q  R  R  P  S  P  S  S  P  C  R  P  G  S  R  R  NP  P  M  R  L  L  T  A
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : L  P  Q  Y  *  Q  I  R  D  A  R  F  V  E  A  G  I  C  I  GT  Q  V  G  A  Q  G  P  I  G  P  V  G  Q  V  P  C  Q  D  AD  R  S  M  L  L  C  S  V  A  I  V  K  K  G  P  A  T  E  RL  V  V  P  I  V  G  R  D  Q  E  L  L  T  E  S  D  M  G  RR  L  C  L  L  G  E  G  L  E  G  Q  L  G  P  D  L  R  F  GG  I  L  S  N  V  A
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : P  T  A  P  I  V  P  D  Q  R  G  P  I  G  R  R  R  H  L  HR  D  S  C  R  G  A  G  P  H  R  P  R  G  S  S  P  M  S  RR  R  *  E  H  P  P  L  K  S  S  N  G  E  Q  G  T  S  D  RP  P  C  G  P  H  R  R  S  G  A  G  S  S  D  G  L  G  D  RA  P  P  L  S  P  G  R  G  A  *  G  A  S  R  P  G  P  P  IW  R  H  P  Q  *  G  G
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : S  H  S  T  D  S  S  G  T  Q  G  S  Y  R  Q  A  *  A  S  AQ  R  F  V  P  R  G  R  S  A  Q  S  A  R  F  Q  A  N  I  QT  E  V  *  S  S  A  A  *  Q  *  *  R  R  A  R  H  Q  R  AS  S  L  R  S  S  A  A  I  R  S  W  F  L  R  R  T  W  G  EG  S  A  S  F  A  R  A  W  S  V  R  C  V  P  T  W  A  S  DV  S  S  A  T  L  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+8- Contig Name :>k141_1921176 flag=0 multi=1.0000 len=249
+candidate 6 frame proteins are ...
+1 : L  V  Y  L  L  Y  R  T  R  C  L  M  T  E  L  V  A  G  E  VK  N  L  E  S  L  T  M  I  L  L  V  E  R  F  Q  I  F  V  LW  C  E  T  T  S  S  S  S  V  D  N  Q  Q  Y  L  S  L  I  LG  E  R  H  V  L  A  C  I  V  L  H  G  E  I  I  H  G  L  R*  K
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+2 : T  G  V  S  P  V  S  Y  Q  V  P  D  D  R  T  G  C  R  G  SQ  E  S  R  I  P  D  H  D  T  S  G  R  A  V  P  N  L  C  TV  V  *  N  H  I  *  *  Q  C  *  Q  S  T  I  P  F  P  Y  TR  R  A  T  R  P  C  L  H  R  P  S  R  *  N  H  T  R  F  AL  K
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : N  W  C  I  S  C  I  V  P  G  A  *  *  P  N  W  L  Q  G  KS  R  I  S  N  P  *  P  *  Y  F  W  *  S  G  S  K  S  L  YC  G  V  K  P  H  L  V  A  V  L  T  I  N  N  T  F  P  L  YS  A  S  D  T  S  L  P  A  S  S  F  T  V  K  S  Y  T  V  CA  E  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : Q  H  I  E  Q  I  T  G  P  A  Q  H  G  F  Q  N  C  P  F  DL  I  E  F  G  Q  G  H  Y  K  Q  Y  L  P  E  L  D  K  Y  QP  T  F  G  C  R  T  A  T  N  V  I  L  L  V  K  G  K  Y  EA  L  S  V  D  K  G  A  D  D  K  V  T  F  D  Y  V  T  Q  AS  L
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : V  P  T  D  G  T  D  Y  W  T  G  S  S  R  V  P  Q  L  P  L*  S  D  R  I  G  S  W  S  V  E  P  L  A  T  G  F  R  Q  VT  T  H  F  W  M  *  Y  C  H  Q  C  D  V  I  G  K  G  *  VR  R  A  V  R  G  Q  R  C  R  G  E  R  H  F  *  V  R  N  AS  F  P
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : S  T  Y  R  R  Y  R  V  L  H  R  I  V  S  S  T  A  P  S  TL  F  R  S  D  R  V  M  I  S  R  T  S  R  N  W  I  K  T  SH  H  S  V  V  D  L  L  L  T  S  L  *  C  Y  R  E  R  I  SP  S  R  C  T  R  A  Q  M  T  R  *  P  S  I  M  C  P  K  RQ  F
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+9- Contig Name :>k141_7364507 flag=1 multi=3.0000 len=368
+candidate 6 frame proteins are ...
+1 : L  S  P  *  G  V  M  A  L  S  F  C  G  S  V  L  R  R  G  RV  P  F  R  R  A  L  S  F  G  R  E  K  N  R  Q  R  G  Q  DV  N  A  E  Q  R  R  F  R  H  Q  N  V  G  F  R  T  L  H  SR  D  K  P  Q  P  L  R  F  G  L  F  Q  R  L  K  S  P  L  HF  H  R  L  E  K  L  I  G  G  Q  L  D  A  L  Q  K  L  V  EL  L  A  R  R  F  Q  T  R  C  Q  R  L  K  I  A  G  R  F  DI  A
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+2 : P  F  S  M  R  R  H  G  V  V  I  L  R  L  C  L  A  T  R  TR  T  L  P  A  S  A  F  F  W  S  G  E  K  P  S  A  R  T  RR  K  R  R  T  A  P  L  P  P  S  K  R  R  I  *  N  S  S  QQ  R  *  A  P  A  P  A  L  W  A  L  P  A  S  E  K  P  A  SF  P  P  S  *  K  T  H  R  R  S  T  G  C  A  P  K  A  G  RA  S  C  A  S  L  P  D  A  L  S  A  S  Q  D  C  R  T  L  RH  C
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : S  F  L  H  E  A  S  W  R  C  H  F  A  A  L  S  C  D  A  DA  Y  P  S  G  E  R  F  L  L  V  G  R  K  T  V  S  A  D  KT  *  T  P  N  S  A  A  S  A  I  K  T  S  D  L  E  L  F  TA  E  I  S  P  S  P  C  A  L  G  S  S  S  V  *  K  A  R  FI  S  T  V  L  K  N  S  S  A  V  N  W  M  R  S  K  S  W  SS  F  L  R  V  A  S  R  R  V  V  S  V  S  R  L  P  D  A  ST  L
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : R  E  G  H  P  T  M  A  N  D  N  Q  P  E  T  K  R  R  P  RT  G  K  R  R  A  S  E  K  P  R  S  F  F  R  *  R  P  C  ST  F  A  S  C  R  R  K  R  W  *  F  T  P  N  L  V  R  *  LL  S  L  G  W  G  R  R  K  P  S  K  W  R  R  F  L  G  S  *K  W  R  R  S  F  S  M  P  P  *  S  S  A  S  W  F  S  T  SS  R  A  R  R  K  W  V  R  Q  *  R  R  L  I  A  P  R  K  SM  A
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : K  R  W  S  A  D  H  R  Q  *  K  A  A  R  D  Q  S  A  S  AY  G  E  P  S  R  K  R  K  T  P  L  F  V  T  L  A  S  L  VY  V  G  F  L  A  A  E  A  M  L  V  D  S  K  S  S  K  V  AS  I  L  G  L  G  Q  A  K  P  E  E  L  T  Q  F  A  R  K  ME  V  T  K  F  F  E  D  A  T  L  Q  I  R  E  L  L  Q  D  LK  K  R  T  A  E  L  R  T  T  L  T  E  L  N  G  S  A  E  VN  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : G  K  E  M  L  R  *  P  T  T  M  K  R  S  Q  R  A  V  R  VR  V  R  G  A  L  A  K  K  Q  D  P  S  F  G  D  A  R  V  LR  L  R  R  V  A  G  S  G  G  D  F  R  R  I  *  F  E  E  CC  L  Y  A  G  A  G  A  S  Q  A  R  G  A  D  S  F  G  A  EN  G  G  D  Q  F  V  *  R  R  D  V  P  H  A  G  F  A  P  RA  E  Q  A  D  S  G  S  A  N  D  A  D  *  S  Q  R  V  S  RC  Q
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+10- Contig Name :>k141_6083724 flag=1 multi=3.0000 len=496
+candidate 6 frame proteins are ...
+1 : S  V  P  A  T  I  W  S  C  L  G  G  V  T  V  T  W  T  A  TT  F  S  S  P  I  P  W  M  L  R  N  S  R  P  S  M  C  A  GS  S  C  G  M  *  K  S  G  P  S  D  *  V  W  T  H  G  C  ST  R  T  T  R  R  R  A  R  W  R  T  G  V  S  T  A  T  G  LP  R  R  C  A  P  S  A  I  W  S  G  V  *  N  S  A  G  R  RA  S  V  S  I  T  A  R  R  A  R  T  T  T  C  *  N  S  P  KT  R  R  C  F  V  S  R  T  H  W  D  F  W  I  *  K  T  C  ST  A  R  T  S  R  W  R  S  V  S  G  F  P  P  S  V  I  L  TL  N  S  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+2 : L  S  A  S  Y  D  M  E  L  P  G  R  S  Y  G  Y  M  D  R  DN  I  F  Q  S  Y  S  V  D  A  P  E  L  S  A  Q  Y  V  R  RF  K  L  R  Y  V  K  E  W  P  F  R  L  S  V  D  T  W  L  QY  E  D  N  E  A  A  G  T  L  A  Y  W  R  V  N  S  D  G  TA  T  Q  V  R  S  F  S  N  M  E  W  S  L  K  L  R  W  A  PG  E  R  V  Y  N  S  Q  T  G  K  D  N  N  L  L  K  L  S  KN  A  P  V  L  C  L  T  H  T  L  G  F  L  D  L  K  N  M  FN  R  T  D  F  S  V  E  K  R  F  W  L  S  A  F  G  H  I  DA  E  L  Q  A
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : A  Q  C  Q  L  R  Y  G  V  A  W  A  E  L  R  L  H  G  P  RQ  H  F  P  V  L  F  R  G  C  S  G  T  L  G  P  V  C  A  PV  Q  V  A  V  C  E  R  V  A  L  P  I  E  C  G  H  M  A  AV  R  G  Q  R  G  G  G  H  A  G  V  L  A  C  Q  Q  R  R  DC  H  A  G  A  L  L  Q  Q  Y  G  V  E  F  E  T  P  L  G  AG  R  A  C  L  *  Q  P  D  G  Q  G  Q  Q  P  A  E  T  L  QK  R  A  G  A  L  S  H  A  H  I  G  I  F  G  F  E  K  H  VQ  P  H  G  L  L  G  G  E  A  F  L  A  F  R  L  R  S  Y  *R  *  T  P  G
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : S  L  A  L  *  S  I  S  N  G  P  R  L  *  P  *  M  S  R  SL  M  K  W  D  *  E  T  S  A  G  S  S  E  A  W  Y  T  R  RN  L  N  R  Y  T  F  S  H  G  K  R  N  L  T  S  V  H  S  CY  S  S  L  S  A  A  P  V  S  A  Y  Q  R  T  L  L  S  P  VA  V  C  T  R  E  K  L  L  I  S  H  L  K  F  S  R  Q  A  GP  S  R  T  *  L  L  W  V  P  L  S  L  L  R  S  F  S  E  LF  A  G  T  S  Q  R  V  C  V  N  P  N  K  S  K  F  F  M  NL  R  V  S  K  E  T  S  F  R  K  Q  S  E  A  K  P  *  I  SA  S  S  W  A
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : E  T  G  A  V  I  H  L  Q  R  P  P  T  V  T  V  H  V  A  VV  N  E  L  G  I  G  H  I  S  R  F  E  R  G  L  I  H  A  PE  L  Q  P  I  H  F  L  P  G  E  S  Q  T  H  V  C  P  Q  LV  L  V  V  L  R  R  A  R  Q  R  V  P  T  D  V  A  V  P  SG  R  L  H  A  G  E  A  I  H  L  P  T  Q  F  E  A  P  R  RA  L  T  D  I  V  A  L  R  A  L  V  V  V  Q  Q  F  E  G  FV  R  R  H  K  T  E  R  V  C  Q  S  K  Q  I  Q  F  V  H  EV  A  R  V  E  R  H  L  L  T  E  P  K  G  G  E  T  M  N  VS  F  E  L  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : *  H  W  S  R  Y  P  T  A  Q  A  S  N  R  N  C  P  G  R  CC  K  G  T  R  N  R  P  H  E  P  V  R  P  G  T  H  A  G  T*  T  A  T  H  S  L  T  A  R  G  I  S  H  P  C  M  A  A  TR  P  C  R  P  P  P  C  A  P  T  S  A  H  *  C  R  R  S  QW  A  P  A  S  R  *  C  Y  P  T  S  N  S  V  G  S  P  A  PR  A  H  R  Y  C  G  S  P  C  P  C  C  G  A  S  V  R  W  FR  A  P  A  K  D  *  A  C  M  P  I  K  P  N  S  F  C  T  *G  C  P  S  R  P  P  S  A  N  R  A  K  R  R  R  D  Y  Q  RQ  V  G  P
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+11- Contig Name :>k141_8004897 flag=0 multi=1.0000 len=395
+candidate 6 frame proteins are ...
+1 : R  G  L  R  Q  K  H  V  P  G  V  Q  I  R  A  G  Q  N  R  LS  V  L  K  N  L  V  R  C  D  M  F  D  I  L  Q  R  H  A  FF  R  R  F  R  F  P  G  R  F  F  K  S  I  P  Y  R  S  A  GN  G  I  R  E  H  F  F  R  K  S  G  N  I  R  R  G  H  A  VT  R  Q  R  H  N  K  T  L  P  E  R  L  V  Q  R  N  H  P  FR  R  L  F  *  R  A  Q  A  F  Q  S  A  I  R  F  L  S  Q  VM  I  V  R  S  T  D  V  K  L  F
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+2 : A  R  P  A  P  E  T  R  T  R  C  P  N  P  R  R  S  E  Q  AL  R  F  E  K  P  R  P  L  R  Y  V  *  Y  S  P  T  T  R  FF  P  P  F  P  L  S  G  T  L  L  *  E  Y  S  I  S  F  R  RK  W  N  T  R  T  F  L  P  Q  K  R  *  Y  S  P  R  T  C  RN  A  S  A  S  Q  Q  D  A  P  G  T  P  C  S  T  Q  S  P  VP  S  S  V  L  T  R  T  G  F  P  K  R  N  P  L  S  F  P  GH  D  S  T  F  D  *  C  Q  T  L
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : G  A  A  C  A  R  N  T  Y  P  V  S  K  S  A  P  V  R  T  GS  P  F  *  K  T  S  S  V  A  I  C  L  I  F  S  N  D  T  LF  S  A  V  S  A  F  R  D  A  S  L  R  V  F  H  I  V  P  PE  M  E  Y  A  N  I  S  S  A  K  A  V  I  F  A  A  D  M  P*  R  V  S  V  T  T  R  R  S  R  N  A  L  F  N  A  I  T  RS  V  V  C  S  D  A  H  R  L  S  K  A  Q  S  A  F  F  P  RS  *  *  Y  V  R  L  M  S  N  S
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : R  P  R  R  W  F  C  T  G  P  T  W  I  R  A  P  *  F  L  SE  T  K  F  F  R  T  R  Q  S  I  N  S  I  R  W  R  C  A  KK  R  R  K  R  K  G  P  R  K  K  L  L  I  G  Y  R  E  A  PF  P  I  R  S  C  K  K  R  L  L  P  L  I  R  R  P  C  A  TV  R  *  R  *  L  L  V  S  G  S  R  R  T  *  R  L  *  G  NR  R  R  N  Q  R  A  C  A  K  W  L  A  I  R  K  R  E  W  TM  I  T  R  E  V  S  T  L  S  K
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : A  A  Q  A  L  F  V  Y  G  T  D  L  D  A  G  T  L  V  P  EG  N  Q  F  V  E  D  T  A  I  H  K  I  N  E  L  S  V  S  KE  A  T  E  A  K  R  S  A  E  K  L  T  N  W  I  T  G  G  SI  S  Y  A  F  M  E  E  A  F  A  T  I  N  A  A  S  M  G  YR  T  L  T  V  V  L  R  E  R  F  A  K  N  L  A  I  V  R  ET  T  Q  E  S  A  C  L  S  E  L  A  C  D  A  K  K  G  L  DH  Y  Y  T  R  S  I  D  F  E  E
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : A  R  G  A  G  S  V  R  V  R  H  G  F  G  R  R  D  S  C  AR  R  K  S  F  G  R  G  N  R  Y  T  Q  Y  E  G  V  V  R  KK  G  G  N  G  S  E  P  V  S  R  *  S  Y  E  M  D  N  R  RF  H  F  V  R  V  N  R  G  C  F  R  Y  Y  E  G  R  V  H  RL  A  D  A  D  C  C  S  A  G  P  V  G  Q  E  V  C  D  G  TG  D  D  T  R  V  R  V  P  K  G  F  R  L  G  S  E  K  G  P*  S  L  V  N  S  Q  H  *  V  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+
+<<<-----------------START of Blast of Protein seq------------------>>>
+12- Contig Name :>k141_3201960 flag=1 multi=2.0000 len=360
+candidate 6 frame proteins are ...
+1 : S  I  L  A  F  T  S  I  S  P  F  G  A  S  I  L  A  V  L  PM  V  T  L  A  S  F  V  S  T  P  T  E  I  A  A  P  T  E  R*  S  V  A  P  S  S  F  C  P  I  L  G  Y  A  V  L  S  F  PM  K  A  E  R  P  P  D  D  M  A  A  F  S  A  S  S  L  V  IS  F  A  G  S  S  S  V  T  P  S  S  P  K  F  A  L  V  F  LP  C  M  P  L  S  L  K  M  L  L  R  *  N  V  F  D  A  S
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+2 : L  H  L  G  V  H  I  D  I  A  I  R  R  I  D  F  S  G  V  AD  G  H  V  G  V  V  C  L  N  A  H  G  N  S  R  A  Y  G  EV  I  R  G  A  V  Q  F  L  P  D  F  G  V  C  C  L  E  F  SD  E  S  G  K  A  P  R  R  Y  G  R  V  L  R  L  F  P  G  HL  I  C  R  F  V  Q  R  D  A  L  L  A  K  V  R  A  G  F  LA  L  H  A  V  V  V  E  N  V  V  A  V  E  C  V  R  R  I
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+3 : A  P  S  W  R  S  H  R  Y  R  H  S  A  H  R  F  *  R  C  CR  W  S  R  W  R  R  L  S  Q  R  P  R  K  *  P  R  L  R  RG  N  P  W  R  R  P  V  S  A  R  F  W  G  M  L  S  *  V  FR  *  K  R  K  G  P  P  T  I  W  P  R  S  P  P  L  P  W  SS  H  L  P  V  R  P  A  *  R  P  P  R  Q  S  S  R  W  F  SC  L  A  C  R  C  R  *  K  C  C  C  G  R  M  C  S  T  H  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+4 : G  D  Q  R  E  C  R  Y  R  W  E  A  C  R  N  *  R  H  Q  RH  D  R  Q  R  R  K  D  *  R  G  R  F  Y  G  R  R  R  L  PL  G  H  R  R  G  T  E  A  R  N  Q  P  I  S  D  Q  T  K  RH  F  R  F  P  G  G  V  I  H  G  R  E  G  G  R  G  Q  D  D*  K  G  T  R  G  A  H  R  G  G  R  W  L  E  R  Q  N  E  QR  A  H  R  Q  R  Q  F  H  Q  Q  P  L  I  H  E  V  C  R
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+5 : S  W  R  P  T  *  M  S  I  A  M  R  R  M  S  K  L  P  T  AS  P  *  T  P  T  T  Q  R  L  A  W  P  F  L  R  A  *  P  ST  I  R  P  A  T  W  N  R  G  S  K  P  T  H  Q  R  S  N  ES  S  L  P  F  A  G  R  R  Y  P  R  T  R  R  R  K  G  P  *R  M  Q  R  N  T  W  R  S  A  R  R  A  L  T  R  A  P  K  RA  K  C  A  T  T  T  S  F  T  T  A  T  S  H  T  R  R  M  S
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+6 : E  M  K  A  N  V  D  I  D  G  N  P  A  D  I  K  A  T  N  GI  T  V  N  A  D  N  T  E  V  G  V  S  I  A  A  G  V  S  LY  D  T  A  G  D  L  K  Q  G  I  K  P  Y  A  T  K  L  K  GI  F  A  S  L  G  G  S  S  I  A  A  N  E  A  E  E  R  T  ME  N  A  P  E  D  L  T  V  G  E  E  G  F  N  A  S  T  K  KG  Q  M  G  N  D  N  F  I  N  N  R  Y  F  T  N  S  A  D
+Network Error - Connection Failed due to Iran internet Access - NO BLAST for protein !
+<<<-----------------END of Blast of Protein seq------------------->>>
+Number of Translated contig: 12
+Start time :2023-02-17 18:28:03.033534
+End time :2023-02-17 19:39:41.737039
+E Value: 0.05
+Duration :1:11:38.703505
+End of file

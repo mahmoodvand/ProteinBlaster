@@ -1,0 +1,17 @@
+the result of 6 Frame extraction from contig by Mohamadreza Mahmoodvand - 2023-02-17 00:16:01.541643
+------------------START of Blast of Protein seq------------------
+1- Contig Name :>k141_4482744 flag=0 multi=6.0769 len=206
+candidate 6 frame proteins are ...
+1 : T  G  R  A  T  I  P  I  P  G  T  I  S  E  T  E  G  K  N  FG  N  R  Q  V  L  H  F  R  R  H  R  R  V  R  *  G  S  C  FR  H  Q  T  P  Y  R  R  E  S  Q  H  R  I  L  S  R  G  H  LL  F  G  S  N  R  L  W
+Number of Translated contig: 0
+Start time :2023-02-17 00:16:01.541643
+End time :2023-02-17 00:17:07.601408
+E Value: 0.05
+Duration :0:01:06.059765
+End of file
+
+-------------------------start of protein examination-------------------------------
+protein seq: 1unnamed protein product
+ Not Found any Protein
+-------------------------end of protein examination-------------------------------
+

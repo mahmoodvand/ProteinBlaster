@@ -1,0 +1,7 @@
+the result of 6 Frame extraction from contig by Mohamadreza Mahmoodvand - 2023-02-18 11:53:11.021108
+Number of Translated contig: 0
+Start time :2023-02-18 11:53:11.021108
+End time :2023-02-18 11:53:24.332606
+E Value: 0.05
+Duration :0:00:13.311498
+End of file
